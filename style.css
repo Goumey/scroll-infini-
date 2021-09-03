@@ -1,0 +1,25 @@
+body{
+    background:linear-gradient(to left,#080824,rgb(32, 31, 31),rgb(3, 3, 10)) ;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color: rgb(94, 64, 64);
+    font-size: 3em;
+ 
+}
+img{
+    display: block;
+    margin: 10px;
+    overflow: hidden;
+    
+}
+.image-item{
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   width: 80%;
+   margin: 0 auto;
+    
+}
